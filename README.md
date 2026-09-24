@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshots/logo.png" alt="Solibus Logo" width="180" style="border-radius: 12px; margin-bottom: 16px;" />
+  <img src="screenshots/logo.png" alt="Solibus Logo" width="160" style="margin-bottom: 12px;" />
 
   # 🚌 Solibus — Plataforma Tecnológica para el Transporte Público Colectivo
   
@@ -12,7 +12,7 @@
   [![License](https://img.shields.io/badge/License-Proprietary%20Showcase-lightgrey?style=flat-square)](./NOTICE)
 
   <br/>
-  <img src="screenshots/mobile-mockup.png" alt="Solibus Mobile Mockup" width="340" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+  <img src="screenshots/mobile-mockup.png" alt="Solibus Mobile Mockup" width="340" />
 </div>
 
 ---
