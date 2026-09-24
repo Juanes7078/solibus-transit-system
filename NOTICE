@@ -1,0 +1,17 @@
+NOTICE & PORTFOLIO DISCLAIMER
+==============================
+
+Project: Solibus — Plataforma Tecnológica para el Transporte Público Colectivo
+Author: Solibus Engineering Team / Esteban Patiño
+Year: 2026
+
+1. PORTFOLIO DEMONSTRATION PURPOSE
+This repository is published exclusively as an engineering case study and technical showcase for portfolio and professional review purposes. It demonstrates software architecture, system design, performance optimizations, and problem-solving methodologies.
+
+2. PROPRIETARY INTELLECTUAL PROPERTY
+All rights reserved. The underlying business logic, production databases, proprietary routing algorithms, administrative tooling, and live service configurations are proprietary assets maintained in a separate private repository under restricted access.
+
+3. RESTRICTIONS
+No portion of this showcase, documentation, architectural blueprints, or related assets may be reproduced, distributed, copied, or utilized to reverse-engineer commercial transit systems without prior written authorization from the author.
+
+© 2026 Solibus. All rights reserved.
