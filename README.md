@@ -141,6 +141,22 @@ El sistema implementa el principio de **Defensa en Profundidad**:
 3. **Mitigación XSS:** Utilidades de sanitización contextual aplicadas antes de renderizar cualquier entrada de usuario en el DOM.
 4. **Política de Seguridad de Contenido (CSP):** Restricción de dominios permitidos para scripts, WebSockets y conexiones de red en `firebase.json`.
 
+## 📸 Galería Visual de la Aplicación (Screenshots)
+
+<div align="center">
+
+| Presentación Oficial | Red de Rutas en Vivo | Planificador de Destinos | Cálculo de Itinerario |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/01-splash-presentacion.png" width="210" /> | <img src="screenshots/02-mapa-rutas-interactivo.png" width="210" /> | <img src="screenshots/03-planificador-destinos.png" width="210" /> | <img src="screenshots/04-calculo-itinerario.png" width="210" /> |
+| **Identidad & Marca** | **Trazado de Flota** | **Búsqueda Inteligente** | **ETA & Conexiones** |
+
+| Ficha Técnica de Ruta | Paraderos Cercanos | Servicios Urbanos | Alertas en Vivo |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/05-detalle-ficha-ruta.png" width="210" /> | <img src="screenshots/06-paraderos-geolocalizados.png" width="210" /> | <img src="screenshots/07-servicios-clima-emergencias.png" width="210" /> | <img src="screenshots/08-alertas-tiempo-real.png" width="210" /> |
+| **Tarifas & Intervalos** | **Distancias a Pie** | **Clima & Emergencias** | **Reportes de Vía** |
+
+</div>
+
 ---
 
 ## 📱 Plataformas Soportadas
